@@ -1,0 +1,20 @@
+{
+  "name": "web701_charity_assessment",
+  "version": "1.0.0",
+  "description": "A repository to store my WEB701 charity assessment work, this assessment will focus on creating a MERN or MEAN full-stack application used to provide charitable resources to those in need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamishDrogemuller/WEB701_Charity_Assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamishDrogemuller/WEB701_Charity_Assessment/issues"
+  },
+  "homepage": "https://github.com/HamishDrogemuller/WEB701_Charity_Assessment#readme"
+}

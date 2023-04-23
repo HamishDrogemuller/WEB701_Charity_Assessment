@@ -12,4 +12,4 @@ const Charity = new Schema(
 )
 	
 
-module.exports = mongoose.model('users', Charity)
+module.exports = mongoose.model('listings', Charity)
